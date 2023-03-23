@@ -1,0 +1,14 @@
+ <script src="<?php echo base_url();?>Content/js/jquery.min.js"></script>
+  <script src="<?php echo base_url();?>Content/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="<?php echo base_url();?>Content/js/popper.min.js"></script>
+  <script src="<?php echo base_url();?>Content/js/bootstrap.min.js"></script>
+  <script src="<?php echo base_url();?>Content/js/jquery.easing.1.3.js"></script>
+  <script src="<?php echo base_url();?>Content/js/jquery.waypoints.min.js"></script>
+  <script src="<?php echo base_url();?>Content/js/jquery.stellar.min.js"></script>
+  <script src="<?php echo base_url();?>Content/js/owl.carousel.min.js"></script>
+  <script src="<?php echo base_url();?>Content/js/jquery.magnific-popup.min.js"></script>
+  <script src="<?php echo base_url();?>Content/js/aos.js"></script>
+  <script src="<?php echo base_url();?>Content/js/jquery.animateNumber.min.js"></script>
+  <script src="<?php echo base_url();?>Content/js/bootstrap-datepicker.js"></script>
+  <script src="<?php echo base_url();?>Content/js/scrollax.min.js"></script>  
+  <script src="<?php echo base_url();?>Content/js/main.js"></script>
